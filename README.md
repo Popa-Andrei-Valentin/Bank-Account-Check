@@ -21,5 +21,5 @@
 
 ![pvbank bottom](https://user-images.githubusercontent.com/94912205/151752223-78c519a3-b8ab-4f08-b576-bec2abaae7c6.PNG)
 
-- ***In and Out*** will be display the amounts that are deposetid or withdrawn, the sum will be updated in real-time with each transaction
+- ***In and Out*** will display the amounts that are deposetid or withdrawn, the sum will be updated in real-time with each transaction
 - ***Interest*** displays the interest amount that the bank will pay you for each deposit, the Interest Rate is determined for every account in the code.
