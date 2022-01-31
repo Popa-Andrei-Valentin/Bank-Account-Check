@@ -14,7 +14,7 @@
  - The current balance is calculated by adding up deposits and withdrawals which are all placed in an array that is sorted using array methods like .filter.map.reduce etc.
  - ***In the middle*** there is a deposit/ withdrawal section, which gets its information from the same array I mentioned above. With green are the deposits and red are the withdrawals, each operation being enumerated for ease of accountability.
  - ***On the right side***, there are 3 features which actually interact with the account, 
-   - *Transfer money* requires input from the user, he must introduce a valid username ( the initials of the other account, which are MM in this case as the current account is Popa Andrei ) and then the amount which is to be transferred, if everything is done correctly the amount which has been transferred should be visible in the deposit/ withdrawal section as a withdrawal.
+   - *Transfer money* requires input from the user, he must introduce a valid username ( the initials of the other account, which are MM in this case as the current account is Popa Andrei ) and then the amount which is to be transferred, if everything is done correctly the amount which has been transferred should be visible in the deposit/ withdrawal section as a withdrawal, and as a deposit in the other account.
    - *Request loan* is a simple money injection into the account, after the amount is input there will be a time period before the funds are actually visible in the account.
    - *Close account* when the user correctly inputs the Login credentials the account will be ***permanently*** deleted, the user being unable to re-login in the actual account.
 # Summary / Bottom Part
